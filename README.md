@@ -1,63 +1,125 @@
----
-
 # Welcome to My GitHub Profile! 👋  
 
-Hi there! I'm *Martin Kimits*, a passionate and curious developer with a strong foundation in web development and a growing interest in data science. I’m committed to learning, building, and solving challenging problems one step at a time.
+Hi there! I'm **Martin Kimiti Munyua**, a full-stack developer and ICT professional with 5+ years of hands-on experience building web applications, managing IT infrastructure, and solving complex technical challenges. I combine software development expertise with systems administration skills to deliver comprehensive technology solutions.
 
 ---
 
-## 🌟 Skills & Expertise  
-- **Languages*:  
-  - *PHP**, *Java*, *SQL*, **HTML**, **CSS**  
-  - Currently learning **Python** for data analysis and machine learning  
-- **Web Development**:  
-  - Backend Development with **PHP**  
-  - Frontend Development with **HTML**, **CSS**, and responsive design  
-- **Database Management**:  
-  - Proficient in **SQL** for creating and optimizing relational databases  
-- **Programming Fundamentals**:  
-  - Strong understanding of object-oriented programming (**Java**)  
+## 💻 Technical Skills  
+
+### **Languages & Core Technologies**
+- **Backend:** PHP, Java, Python, SQL  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Database:** MySQL, SQL Server, Firebase  
+- **Version Control:** Git, GitHub  
+
+### **Web Development**
+- Full-stack web application development (PHP, JavaScript)  
+- WordPress CMS development and customization  
+- Responsive web design and mobile-first development  
+- RESTful API development and integration  
+- Database design and optimization  
+
+### **Data Analysis & Emerging Skills**
+- Python for data analysis and automation  
+- Pandas, NumPy, Matplotlib, Scikit-learn  
+- SQL for complex queries and data manipulation  
+- Data visualization and reporting  
+- Currently expanding into Machine Learning  
+
+### **Infrastructure & Systems**
+- Network administration and troubleshooting  
+- Windows Server, Active Directory, Office 365  
+- System automation with Google Apps Script  
+- Cloud platforms (Firebase, exploring AWS/Azure)  
 
 ---
 
-## 🌱 My Learning Journey  
-I am currently focused on expanding my knowledge in:  
-- **Python** for data analysis, visualization, and machine learning  
-- Core concepts of **Data Science**  
-- Tools such as **Pandas**, **NumPy**, **Matplotlib**, and **Scikit-learn**  
-- Building a foundation in **Data Engineering** and **Big Data** technologies  
+## 🎯 What I Do  
 
-My ultimate goal is to transition into a **Data Scientist** role where I can combine data-driven decision-making with my programming expertise.
+- 🌐 Build custom web applications and business automation tools  
+- 📊 Develop data-driven dashboards and reporting systems  
+- 🔧 Manage enterprise IT infrastructure and network systems  
+- 👨‍🏫 Train teams on web development and digital tools  
+- 💡 Solve complex technical problems with creative solutions  
+
+---
+
+## 🌱 Current Learning Journey  
+
+I'm actively expanding my expertise in:  
+- **Data Science & Machine Learning** with Python  
+- **Advanced Data Analytics** (Pandas, NumPy, Scikit-learn)  
+- **Cloud Computing** (AWS/Azure fundamentals)  
+- **Data Engineering** and Big Data technologies  
+- **Modern JavaScript Frameworks** (React, Node.js)  
+
+**2026 Goals:**  
+✅ Master Python for data analysis and machine learning  
+✅ Build ML-powered web applications  
+✅ Contribute to open-source data science projects  
+✅ Obtain cloud computing certifications (AWS/Azure)  
 
 ---
 
 ## 📈 GitHub Stats  
+
 ![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKings7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MKings7&layout=compact&theme=radical)  
 
 ---
 
-## 📫 How to Reach Me  
-- **Phone**: +254 713 519 832  
-- **Email**: [martinkimits@gmail.com](mailto:martinkimits@gmail.com)  
-- **LinkedIn**: [Martin Kimits](#) *(Add your LinkedIn profile link here)*  
+## 🚀 Featured Projects  
 
-Let’s connect! I’m open to collaborations, freelance projects, or simply networking with like-minded individuals.  
+### 💼 Professional Work  
+- **Custom Web Applications:** 10+ deployed projects for clients including school management systems, business automation tools, and data dashboards  
+- **Database Solutions:** Enterprise-level database design and optimization for inventory management, student information systems, and reporting  
+- **Automation Tools:** Google Apps Script solutions for workflow automation and data integration  
 
----
+### 🔬 Learning & Experimentation  
+- **Data Analysis Projects:** Exploring datasets with Python, Pandas, and visualization libraries  
+- **Full-Stack Applications:** Building modern web apps with PHP backend and responsive frontends  
+- **IoT Projects:** Arduino and Raspberry Pi experiments  
 
-## 🚀 Fun Facts About Me  
-- I love solving coding puzzles and challenges.  
-- I’m always curious to learn and explore new technologies.  
-- When I’m not coding, you’ll find me playing chess or diving into data-related articles.  
-
----
-
-## 💡 Goals for 2025  
-- Master Python for *Data Science*.  
-- Build projects focusing on *Data Analysis** and *Machine Learning*.  
-- Collaborate on open-source projects related to *AI* and *Data Visualization*.  
-- Pursue certifications in *Data Science* and *Machine Learning**.  
+*📁 Complete portfolio and project documentation available upon request*
 
 ---
 
+## 📫 Let's Connect!  
+
+- **📧 Email:** martinkimits@gmail.com  
+- **📱 Phone:** +254 713 519 832  
+- **💼 LinkedIn:** [Martin Kimiti Munyua](https://linkedin.com/in/martinkimiti)  
+- **🌍 Location:** Nairobi, Kenya  
+
+I'm open to:  
+✨ Full-time opportunities in software development or IT  
+💼 Freelance web development and automation projects  
+🤝 Collaboration on open-source projects  
+🎓 Mentorship and knowledge sharing  
+
+---
+
+## 💡 Fun Facts About Me  
+
+- ♟️ Chess enthusiast and strategic thinker  
+- 🧩 Love solving coding challenges and algorithm puzzles  
+- 📚 Constantly learning new technologies and industry trends  
+- 👨‍🏫 Passionate about teaching coding to young learners  
+- 🌍 Community volunteer in digital literacy programs  
+
+---
+
+## 🏆 Professional Experience Highlights  
+
+- 5+ years managing enterprise IT infrastructure  
+- Successfully delivered 10+ paid development projects  
+- Trained 50+ professionals in web development and digital tools  
+- Managed KES 1.2M+ technology infrastructure projects  
+- Zero security incidents through proactive measures  
+- 99.2% network uptime across multi-building campus  
+
+---
+
+**⭐ If you find my work interesting, feel free to star my repositories!**  
+
+*"Building solutions one commit at a time"* 🚀
